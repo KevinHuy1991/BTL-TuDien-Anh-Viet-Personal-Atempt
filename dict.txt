@@ -1,0 +1,15 @@
+Hello|Xin chao
+Apple|Qua tao
+Banana|Qua chuoi
+Computer|May tinh
+Software|Phan mem
+Student|Sinh vien
+Teacher|Giao vien
+University|Truong dai hoc
+Programming|Lap trinh
+Algorithm|Thuat toan
+Data Structure|Cau truc du lieu
+Dictionary|Tu dien
+Love|Tinh yeu
+Family|Gia dinh
+Money|Tien bac
