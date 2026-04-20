@@ -13,3 +13,213 @@ Dictionary|Tu dien
 Love|Tinh yeu
 Family|Gia dinh
 Money|Tien bac
+Artificial Intelligence|Tri tue nhan tao
+Machine Learning|Hoc may
+Cloud Computing|Dien toan dam may
+Big Data|Du lieu lon
+Cybersecurity|An ninh mang
+Blockchain|Chuoi khoi
+Virtual Reality|Thuc te ao
+Automation|Tu dong hoa
+Algorithm|Thuat toan
+Framework|Khung lam viec
+Library|Thu vien
+Repository|Kho chua code
+Version Control|Quan ly phien ban
+Deployment|Trien khai
+Documentation|Tai lieu huong dan
+Optimization|Toi uu hoa
+Architecture|Kien truc phan mem
+Integration|Tich hop
+Simulation|Mo phong
+Binary|Nhi phan
+Hexadecimal|Thap luc phan
+Syntax|Nu phap
+Parameter|Tham so
+Argument|Doi so
+Constructor|Ham khoi tao
+Destructor|Ham huy
+Inheritance|Ke thua
+Polymorphism|Da hinh
+Encapsulation|Dong goi
+Abstraction|Truu tuong hoa
+Motherboard|Bo mach chu
+Processor|Bo vi xu ly
+Graphics Card|Card do hoa
+Hard Drive|O cung
+Solid State Drive|O cung the ran
+Power Supply|Nguon may tinh
+Cooling System|He thong tan nhiet
+Monitor|Man hinh
+Resolution|Do phan giai
+Peripherals|Thiet bi ngoai vi
+Scanner|May quet
+Projector|May chieu
+Router|Thiet bi dinh tuyen
+Switch|Thiet bi chuyen mach
+Modem|Bo giai ma tin hieu
+Cable|Day cap
+Wireless|Khong day
+Bluetooth|Ket noi bluetooth
+Sensor|Cam bien
+Battery|Pin
+Contract|Hop dong
+Signature|Chu ky
+Proposal|De xuat
+Strategy|Chien luoc
+Marketing|Tiep thi
+Invoice|Hoa don
+Salary|Luong
+Bonus|Tien thuong
+Promotion|Thang chuc
+Meeting|Cuoc hop
+Presentation|Bai thuyet trinh
+Deadline|Han chot
+Experience|Kinh nghiem
+Interview|Phong van
+Resume|So yeu ly lich
+Customer|Khach hang
+Profit|Loi nhuan
+Revenue|Doanh thu
+Investment|Dau tu
+Market|Thi truong
+Breakfast|Bua sang
+Lunch|Bua trua
+Dinner|Bua toi
+Snack|Do an nhe
+Kitchen|Nha bep
+Bedroom|Phong ngu
+Bathroom|Phong tam
+Living room|Phong khach
+Garden|San vuon
+Balcony|Ban cong
+Furniture|Noi that
+Fridge|Tu lanh
+Oven|Lo nuong
+Microwave|Lo vi song
+Washing machine|May giat
+Dishwasher|May rua bat
+Air conditioner|May dieu hoa
+Television|Ti vi
+Telephone|Dien thoai ban
+Lamp|Den ngu
+Universe|Vu tru
+Galaxy|Thien ha
+Planet|Hanh tinh
+Earth|Trai dat
+Forest|Rung ram
+Ocean|Dai duong
+River|Con song
+Lake|Ho nuoc
+Island|Hon dao
+Desert|Sa mac
+Storm|Con bao
+Thunder|Sam set
+Rainbow|Cau vong
+Sunshine|Anh nang
+Environment|Moi truong
+Pollution|O nhiem
+Climate|Khi hau
+Disaster|Thien tai
+Energy|Nang luong
+Nature|Tu nhien
+Mammal|Dong vat co vu
+Reptile|Loai bo sat
+Amphibian|Loai luong cu
+Insect|Con trung
+Dolphin|Ca heo
+Shark|Ca map
+Whale|Ca voi
+Eagle|Chim dai bang
+Owl|Con cu
+Penguin|Chim canh cut
+Giraffe|Huu cao co
+Zebra|Ngua van
+Kangaroo|Chuot tui
+Crocodile|Con ca sau
+Tiger|Con ho
+Elephant|Con voi
+Lion|Su tu
+Wolf|Con soi
+Rabbit|Con tho
+Deer|Con nai
+Airport|San bay
+Station|Gia tau
+Hospital|Benh vien
+Pharmacy|Hieu thuoc
+Library|Thu vien
+Museum|Bao tang
+Cinema|Rap chieu phim
+Restaurant|Nha hang
+Hotel|Khach san
+Stadium|Van dong truong
+Park|Cong vien
+Bridge|Cay cau
+Tower|Toa thap
+Castle|Toa lau dai
+Palace|Cung dien
+Church|Nha tho
+Temple|Ngoi den
+Village|Ngoi lang
+Province|Tinh thanh
+Capital|Thu do
+Creative|Sang tao
+Patient|Kien nhan
+Brave|Dung cam
+Honest|Trung thuc
+Generous|Hao phong
+Confident|Tu tin
+Flexible|Linh hoat
+Efficient|Hieu qua
+Reliable|Dang tin cay
+Aggressive|Hung hang
+Stubborn|Buong binh
+Nervous|Lo lang
+Curious|To mo
+Serious|Nghiem tuc
+Funny|Hai huoc
+Famous|Noi tieng
+Perfect|Hoan hao
+Complex|Phuc tap
+Simple|Don gian
+Dangerous|Nguy hiem
+Organize|To chuc
+Analyze|Phan tich
+Identify|Xac dinh
+Develop|Phat trien
+Design|Thiet ke
+Construct|Xay dung
+Destroy|Pha huy
+Compare|So sanh
+Imagine|Tuong tuong
+Explore|Kham pha
+Achieve|Dat duoc
+Succeed|Thanh cong
+Improve|Cai thien
+Maintain|Bao tri
+Prevent|Ngan chan
+Protect|Bao ve
+Encourage|Khuyen khich
+Recommend|De xuat
+Describe|Mo ta
+Explain|Giai thich
+Muscle|Co bap
+Bone|Xuong
+Heart|Trai tim
+Brain|Noo bo
+Stomach|Da day
+Health|Suc khoe
+Medicine|Thuoc
+Symptom|Trieu chung
+Disease|Benh tat
+Infection|Nhiem trung
+Treatment|Dieu tri
+Recovery|Hoi phuc
+Insurance|Bao hiem
+Emergency|Khan cap
+Surgery|Phau thuat
+Exercise|Tap the duc
+Nutrition|Dinh duong
+Vitamin|Vi ta min
+Physical|The chat
+Mental|Tam tri

@@ -8,7 +8,7 @@ int main() {
     const char* fileDuLieu = "dict.txt";
     int luaChon;
 
-    // 1. T? d?ng t?i d? li?u khi v?a b?t chuong trình
+    // 1. T? d?ng t?i d? li?u khi v?a b?t chuong trï¿½nh
     printf("=== DANG KHOI DONG HE THONG ===\n");
     docTuDienTuFile(&tuDien, fileDuLieu);
 
@@ -22,7 +22,7 @@ int main() {
         printf("Nhap lua chon cua ban (0-3): ");
         scanf("%d", &luaChon);
         
-        // C?c k? quan tr?ng: Xóa d?u Enter k?t l?i sau l?nh scanf
+        
         xoaBoNhoDem(); 
 
         switch(luaChon) {
@@ -30,7 +30,7 @@ int main() {
                 char tuCanTim[100];
                 printf("Nhap tu tieng Anh can tra: ");
                 fgets(tuCanTim, sizeof(tuCanTim), stdin);
-                xoaXuongDong(tuCanTim); // C?t duôi Enter
+                xoaXuongDong(tuCanTim); // C?t duï¿½i Enter
                 
                 timKiemTu(tuDien, tuCanTim);
                 break;
@@ -55,7 +55,7 @@ int main() {
             case 0:
                 printf("\nDang luu du lieu...\n");
                 ghiTuDienRaFile(tuDien, fileDuLieu);
-                giaiPhongBoNho(&tuDien); // D?n s?ch RAM tru?c khi t?t máy
+                giaiPhongBoNho(&tuDien); // D?n s?ch RAM tru?c khi t?t mï¿½y
                 printf("Tam biet! Hen gap lai.\n");
                 break;
             default:
